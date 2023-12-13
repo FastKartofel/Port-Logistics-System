@@ -1,18 +1,19 @@
-## Getting Started
+**Port-Logistics-System**
+Overview
+A Java application designed for maritime ports logistics management, focusing on the efficient loading and unloading of various container types including basic, heavy, refrigerated, and hazardous materials.
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+**Features:**
+Capacity Management
+Time-Sensitive Storage
+Automated ID Assignment
+Safety Compliance Notifications
+Real-Time Data Persistence
+Intuitive GUI
 
-## Folder Structure
+**Technical Highlights:**
+Inheritance, Collections, Interfaces
+Abstract Classes, Lambda Expressions
+Generics for robust code architecture
 
-The workspace contains two folders by default, where:
-
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+**Usage:**
+This application streamlines operations in maritime ports, enhancing operational efficiency with an easy-to-use interface.
