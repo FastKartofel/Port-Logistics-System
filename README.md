@@ -11,9 +11,9 @@
 - **Intuitive GUI**
 
 ### Technical Highlights:
--Inheritance, Collections, Interfaces
--Abstract Classes, Lambda Expressions
--Generics for robust code architecture
+- **Inheritance, Collections, Interfaces**
+- **Abstract Classes, Lambda Expressions**
+- **Generics for robust code architecture**
 
-**Usage:**
+### Usage:
 -This application streamlines operations in maritime ports, enhancing operational efficiency with an easy-to-use interface.
