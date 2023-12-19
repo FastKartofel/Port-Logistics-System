@@ -16,4 +16,4 @@
 - **Generics for robust code architecture**
 
 ### Usage:
--This application streamlines operations in maritime ports, enhancing operational efficiency with an easy-to-use interface.
+- This application streamlines operations in maritime ports, enhancing operational efficiency with an easy-to-use interface.
